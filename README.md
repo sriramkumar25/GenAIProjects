@@ -14,13 +14,4 @@ This project performs sentiment analysis using the pre-trained transformer model
 - Easy to integrate and extend for various applications.
 
 ---
-
-## Installation
-Clone the repository and install the required dependencies:
-```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
-cd sentiment-analysis
-pip install transformers datasets torch
-```
----
 ---
